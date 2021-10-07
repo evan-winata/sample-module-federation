@@ -1,6 +1,6 @@
 # About
 
-This is a simple test for module federation with the goal to provide a separate build for each application. Therefore each application can be built and deployed separately.
+This is a simple sample for module federation with the goal to provide a separate build for each application. Therefore each application can be built and deployed separately.
 
 ## Description
 
