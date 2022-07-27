@@ -2,7 +2,7 @@ import React from "react";
 
 export const Button = ({ children }) => {
   return (
-    <button style={{ color: "#fff", backgroundColor: "green" }}>
+    <button style={{ color: "#fff", backgroundColor: "red" }}>
       {children}
     </button>
   );
